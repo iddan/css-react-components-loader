@@ -72,6 +72,9 @@ Title {
 <h2 align="center">Prior Art and Comparison</h2>
 
 #### CSS Modules
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/52c16fecfa9e4f1c8e9df66b7bccd31c)](https://www.codacy.com/app/iddan/stylesheet?utm_source=github.com&utm_medium=referral&utm_content=500tech/stylesheet&utm_campaign=badger)
+
 A methodology to import CSS tokens (e.g. class names) to JavaScript and converting them to unique identifiers.
 
  - Requires boilerplate code to use as components.
